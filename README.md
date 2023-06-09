@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Introduction
 
 Welcome to my GitHub profile! Here you will find a collection of my projects, contributions, and explorations in the world of software development. I am passionate about coding, problem-solving, and continuous learning. Feel free to explore, contribute, and provide feedback on any of my repositories.
