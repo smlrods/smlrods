@@ -1,10 +1,25 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Sam, a self-taught software engineer.
+
+## 🔧 Things I can do
+
+- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, PHP
+- 🖼️ Frameworks: React, Express, Laravel
+- 🗣️ Human languages: English, Portuguese
+- 🤹 Other skills: Nginx, Git / GitHub
+
+## 📖 Things I am learning about
+
+- Computer Architecture
+- Computer Network
+
+## 🧮 Stats
+
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=smlrods&show_icons=true&count_private=true)](https://github.com/smlrods)
 
 <!--
 **smlrods/smlrods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 -->
-
-![PHP](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
