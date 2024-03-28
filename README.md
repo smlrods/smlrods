@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm Sam, a self-taught software engineer.
-
 ## 🔧 Things I can do
 
 - 🖥️ Programming languages: TypeScript, JavaScript / Node.js, PHP
