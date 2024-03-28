@@ -1,4 +1,6 @@
-# Hi there 👋
+# Sam R. 👋
+
+Hi, I'm a programmer
 
 ## 🔧 Things I can do
 
